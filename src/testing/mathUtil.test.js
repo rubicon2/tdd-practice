@@ -6,7 +6,7 @@ const {
   lerpClamp,
   inverseLerp,
   inverseLerpClamp,
-} = require('../modules/mathUtil.js');
+} = require('../modules/mathUtil');
 
 const badArguments = [
   ['blob', 1, 0.5],

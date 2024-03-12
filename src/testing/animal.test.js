@@ -1,4 +1,4 @@
-const Animal = require('../modules/animal.js');
+const Animal = require('../modules/animal');
 
 let cat = null;
 
